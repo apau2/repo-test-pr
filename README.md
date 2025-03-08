@@ -1,2 +1,3 @@
-# repo-test-pr
-Repositorio de proba
+# Repositorio de proba
+
+Repositorio de mostra para facer pull requests.
